@@ -1,8 +1,5 @@
-<<<<<<< HEAD:TAREFAS/GameServico/servicoGames.js
-import colecaoGames from "../../../GameDados/dadosGames";
-=======
 import colecaoGames from "../GameDados/dadosGames.js";
->>>>>>> 43b36ed8e82eb0d3ff86790ea40ca010f39c845c:GameServico/servicoGames.js
+
 
 //Listar todos os jogos
 export const listarjogos = () => {

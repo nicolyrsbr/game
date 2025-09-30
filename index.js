@@ -1,7 +1,7 @@
 import express from 'express';
 import {
     listarjogos, buscarPorId, buscarPorGenero, buscarPorPlataforma, buscarPorNome
-} from '../GameServico/servicoGames.js'
+} from './GameServico/servicoGames.js'
 
 
 
